@@ -1,3 +1,9 @@
+> [!WARNING]
+> This version is not restricted to no copyright icons.
+> Use it at your own risk.
+
+# This version should contain all the icons from SF Symbols 7 including copyrighted icons.
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 
 # Home Assistant Cupertino Icons
